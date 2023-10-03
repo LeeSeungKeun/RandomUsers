@@ -1,5 +1,5 @@
 //
-//  UserViewFactory.swift
+//  RandomViewFactory.swift
 //  MrPick
 //
 //  Created by 이성근 on 2023/09/25.
